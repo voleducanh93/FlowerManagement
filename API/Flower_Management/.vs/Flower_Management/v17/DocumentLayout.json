@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|c:\\users\\acer\\source\\repos\\flower_management\\flower_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|solutionrelative:flower_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|c:\\users\\acer\\source\\repos\\flower_management\\flower_management\\entities\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|solutionrelative:flower_management\\entities\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|c:\\users\\acer\\source\\repos\\flower_management\\flower_management\\repositories\\iflowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|solutionrelative:flower_management\\repositories\\iflowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|c:\\users\\acer\\source\\repos\\flower_management\\flower_management\\repositories\\flowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|solutionrelative:flower_management\\repositories\\flowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|c:\\users\\acer\\source\\repos\\flower_management\\flower_management\\controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|solutionrelative:flower_management\\controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|c:\\users\\acer\\source\\repos\\flower_management\\flower_management\\services\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|solutionrelative:flower_management\\services\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|c:\\users\\acer\\source\\repos\\flower_management\\flower_management\\services\\iflowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|solutionrelative:flower_management\\services\\iflowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|c:\\users\\acer\\source\\repos\\flower_management\\flower_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|solutionrelative:flower_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|c:\\users\\acer\\source\\repos\\flower_management\\flower_management\\data\\flowerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|solutionrelative:flower_management\\data\\flowerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|c:\\users\\acer\\source\\repos\\flower_management\\flower_management\\flower_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D52EBEA-73A9-4955-8DFA-55F8928DB255}|Flower_Management\\Flower_Management.csproj|solutionrelative:flower_management\\flower_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFlowerService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\Services\\IFlowerService.cs",
+              "RelativeDocumentMoniker": "Flower_Management\\Services\\IFlowerService.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\Services\\IFlowerService.cs",
+              "RelativeToolTip": "Flower_Management\\Services\\IFlowerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:20:56.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlowerService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\Services\\FlowerService.cs",
+              "RelativeDocumentMoniker": "Flower_Management\\Services\\FlowerService.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\Services\\FlowerService.cs",
+              "RelativeToolTip": "Flower_Management\\Services\\FlowerService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:20:32.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlowerController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\Controllers\\FlowerController.cs",
+              "RelativeDocumentMoniker": "Flower_Management\\Controllers\\FlowerController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\Controllers\\FlowerController.cs",
+              "RelativeToolTip": "Flower_Management\\Controllers\\FlowerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:21:33.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlowerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\Repositories\\FlowerRepository.cs",
+              "RelativeDocumentMoniker": "Flower_Management\\Repositories\\FlowerRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\Repositories\\FlowerRepository.cs",
+              "RelativeToolTip": "Flower_Management\\Repositories\\FlowerRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwBEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:19:40.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFlowerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\Repositories\\IFlowerRepository.cs",
+              "RelativeDocumentMoniker": "Flower_Management\\Repositories\\IFlowerRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\Repositories\\IFlowerRepository.cs",
+              "RelativeToolTip": "Flower_Management\\Repositories\\IFlowerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:19:04.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Flower.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\Entities\\Flower.cs",
+              "RelativeDocumentMoniker": "Flower_Management\\Entities\\Flower.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\Entities\\Flower.cs",
+              "RelativeToolTip": "Flower_Management\\Entities\\Flower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:28:17.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\Program.cs",
+              "RelativeDocumentMoniker": "Flower_Management\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\Program.cs",
+              "RelativeToolTip": "Flower_Management\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:17:33.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\appsettings.json",
+              "RelativeDocumentMoniker": "Flower_Management\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\appsettings.json",
+              "RelativeToolTip": "Flower_Management\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T02:28:24.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlowerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\Data\\FlowerDbContext.cs",
+              "RelativeDocumentMoniker": "Flower_Management\\Data\\FlowerDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\Data\\FlowerDbContext.cs",
+              "RelativeToolTip": "Flower_Management\\Data\\FlowerDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:28:47.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Flower_Management.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\Flower_Management.csproj",
+              "RelativeDocumentMoniker": "Flower_Management\\Flower_Management.csproj",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Flower_Management\\Flower_Management\\Flower_Management.csproj",
+              "RelativeToolTip": "Flower_Management\\Flower_Management.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T02:24:42.125Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 320,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
